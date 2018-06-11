@@ -1,6 +1,6 @@
 {
     "name": "nicholascus/codeception-stepler",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords":["codeception", "testing", "debugging", "steps", "console"],
     "description": "A simple Codeception extension which enables step by step debugging in console.",
     "homepage": "https://github.com/nicholascus/codeception-stepler",

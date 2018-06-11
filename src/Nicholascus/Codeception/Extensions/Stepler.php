@@ -7,7 +7,7 @@ use Codeception\Util\Debug;
 
 class Stepler extends Extension {
     public static $events = [
-        Events::STEP_BEFORE => 'pause',
+        Events::STEP_AFTER => 'pause',
         Events::TEST_FAIL => 'pause'
     ];
 

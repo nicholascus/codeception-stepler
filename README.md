@@ -7,8 +7,7 @@ In order to use this extenstion you need to add a new dependency to your **compo
 ```
 {
     "require": {
-	    "php": ">=5.4.0",
-	    "nicholascus/codeception-stepler": "*"
+	    "nicholascus/codeception-stepler": "~0.0.2"
     }
 }
 ```

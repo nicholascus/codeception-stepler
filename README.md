@@ -36,5 +36,5 @@ extensions:
 ```
 Once command is enabled, it will duplicate run command accepting all the same parameters but also enabling Stepler step-by-step debug execution:
 ```bash
-vendor/bin/codecept stepler --debug
+vendor/bin/codecept stepler
 ```

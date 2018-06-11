@@ -1,0 +1,27 @@
+{
+    "name": "nicholascus/codeception-stepler",
+    "version": "0.0.1",
+    "keywords":["codeception", "testing", "debugging", "steps", "console"],
+    "description": "A simple extension which enables step by step debugging in console.",
+    "homepage": "https://github.com/nicholascus/codeception-stepler",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nikolay Georgievskiy",
+            "email": "ngeorgievskiy@gmail.com"
+        }
+    ],
+    "support": {
+        "email": "ngeorgievskiy@gmail.com",
+        "source": "https://github.com/nicholascus/codeception-stepler"
+    },
+    "require": {
+	      "php": ">=5.4.0",
+        "codeception/codeception": "~2.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nicholascus": "src/"
+        }
+    }
+}
